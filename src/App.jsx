@@ -23,7 +23,7 @@ function App() {
           Add Friend
         </button>
         <button className="border border-green-500 text-green-500 px-11 py-2 rounded-lg hover:bg-green-500 transition hover:text-white">
-          Sent Message
+          Send Message
         </button>
       </div>
     </div>
